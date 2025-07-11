@@ -1,0 +1,14 @@
+
+[window]
+padding = { x = 5, y = 5 }
+
+[bell]
+animation = "EaseOut"
+color = "#d0d0d0"
+duration = 150
+
+[general]
+import = [
+  "~/WorkSpace/conf/alacritty/nord.toml",
+  "~/WorkSpace/conf/alacritty/font.toml"
+]
