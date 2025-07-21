@@ -7,3 +7,4 @@ alias kubeali="kubectl --insecure-skip-tls-verify=true --kubeconfig ~/.kube/conf
 alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
 
 alias cdry="cd ~/WorkSpace/JavaProjects/ryplat"
+alias playpy="source ~/WorkSpace/playground/playpy/bin/activate"
